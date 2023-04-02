@@ -1,0 +1,165 @@
+body{
+    background-color: rgb(209, 101, 255);
+}
+
+.photo-1{
+    width: 500px;
+    height: 300px;
+    margin-left: 490px;
+}
+.photo-2{
+    margin-left: 220px;
+}
+.photo-3{
+    width: 500px;
+    height: 300px;
+    margin-left: 490px;
+}
+.photo-4{
+    width: 500px;
+    height: 300px;
+    margin-left: 490px;
+}
+
+a{
+    text-decoration: none;
+}
+   
+.text-1{
+    color: aqua;
+    font-size: 22px;
+}
+.text-2{
+    color: rgb(43, 0, 255);
+    font-size: 22px;
+}
+.text-3{
+    color: rgb(183, 0, 255);
+    font-size: 22px;
+}
+.text-4{
+    color: rgb(0, 255, 76);
+    font-size: 22px;
+}
+.text-5{
+    color: rgb(153, 255, 0);
+    font-size: 22px;
+}
+.text-6{
+    color: rgb(255, 200, 3);
+    font-size: 22px;
+}
+.text-7{
+    color: rgb(255, 0, 102);
+    font-size: 22px;
+}
+.text-8{
+    color: rgb(255, 0, 0);
+    font-size: 22px;
+}
+.text-9{
+    color: rgb(242, 255, 0);
+    font-size: 22px;
+}
+.text-10{
+    color: rgb(0, 145, 255);
+    font-size: 22px;
+}
+.text-11{
+    color: rgb(255, 170, 0);
+    font-size: 22px;
+}
+.text-12{
+    color: rgb(0, 255, 208);
+    font-size: 22px;
+}
+.text-13{
+    color: rgb(213, 173, 13);
+    font-size: 22px;
+}
+.text-14{
+   color: darkcyan;
+   font-size: 22px;
+}
+.text-15{   
+color: darkmagenta;
+font-size: 22px;
+}
+.text-16{
+   color: darkred;
+   font-size: 22px;
+}
+.text-17{
+    color: deeppink;
+    font-size: 22px;
+}
+.text-18{
+    color: goldenrod;
+    font-size: 22px;
+}
+.text-19{
+    color: deepskyblue;
+    font-size: 22px;
+}
+.text-20{
+    color: maroon;
+   font-size: 22px;
+}
+   .read-1{
+    color: aqua;
+    font-size: 24px;
+   }
+   .read-2{
+    color: rgb(81, 255, 0);
+    font-size: 24px;
+   }
+   .read-3{
+    color: rgb(119, 0, 255);
+    font-size: 24px;
+   }
+   .read-4{
+    color: rgb(0, 255, 132);
+    font-size: 24px;
+   }
+   .read-5{
+    color: rgb(255, 234, 0);
+    font-size: 24px;
+   }
+   .read-6{
+    color: rgb(8, 0, 255);
+    font-size: 24px;
+   }
+
+h1{
+    color: aliceblue;
+        font-size: 42px;
+        text-align: center;
+        text-shadow: aliceblue 0.1em 0.01em 0.1em;
+   
+}
+ 
+.read-1:first-letter{
+color: rgb(238, 238, 238);
+font-size: 32px;
+}
+.read-2:first-letter{
+    color: rgb(238, 238, 238);
+    font-size: 32px;
+    }
+    .read-3:first-letter{
+        color: rgb(238, 238, 238);
+        font-size: 32px;
+        }
+        .read-4:first-letter{
+            color: rgb(238, 238, 238);
+            font-size: 32px;
+            }
+            .read-5:first-letter{
+                color: rgb(238, 238, 238);
+                font-size: 32px;
+                }
+                .read-6:first-letter{
+                    color: rgb(238, 238, 238);
+                    font-size: 32px;
+                    }
+                                                            
